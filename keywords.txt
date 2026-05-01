@@ -1,6 +1,0 @@
-Python
-OpenAI
-Microsoft
-Secret Project X
-Exam database exposed
-Learning Management System leak
