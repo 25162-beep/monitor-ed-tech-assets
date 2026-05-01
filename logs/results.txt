@@ -1,0 +1,149 @@
+=== Monitoring Run — 2026-05-01 06:28:25.446357 ===
+
+2026-05-01 06:28:25 - ✅ No match — 'database leaked' not found at https://haveibeenpwned.com/
+2026-05-01 06:28:26 - ✅ No match — 'database leaked' not found at https://www.databreaches.net/
+2026-05-01 06:28:27 - ✅ No match — 'database leaked' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:28:29 - ✅ No match — 'database leaked' not found at https://krebsonsecurity.com/
+2026-05-01 06:28:30 - ✅ No match — 'database leaked' not found at https://www.darkreading.com/
+2026-05-01 06:28:32 - ✅ No match — 'database leaked' not found at https://threatpost.com/
+2026-05-01 06:28:33 - ✅ No match — 'database leaked' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:28:34 - ✅ No match — 'database leaked' not found at https://www.bbc.com/news/technology
+2026-05-01 06:28:35 - ✅ No match — 'database leaked' not found at https://techcrunch.com/security/
+2026-05-01 06:28:36 - ✅ No match — 'database leaked' not found at https://www.wired.com/category/security/
+2026-05-01 06:28:37 - ✅ No match — 'credentials exposed' not found at https://haveibeenpwned.com/
+2026-05-01 06:28:38 - ✅ No match — 'credentials exposed' not found at https://www.databreaches.net/
+2026-05-01 06:28:38 - ✅ No match — 'credentials exposed' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:28:39 - ✅ No match — 'credentials exposed' not found at https://krebsonsecurity.com/
+2026-05-01 06:28:39 - ✅ No match — 'credentials exposed' not found at https://www.darkreading.com/
+2026-05-01 06:28:41 - ✅ No match — 'credentials exposed' not found at https://threatpost.com/
+2026-05-01 06:28:41 - ✅ No match — 'credentials exposed' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:28:42 - ✅ No match — 'credentials exposed' not found at https://www.bbc.com/news/technology
+2026-05-01 06:28:43 - ✅ No match — 'credentials exposed' not found at https://techcrunch.com/security/
+2026-05-01 06:28:44 - ✅ No match — 'credentials exposed' not found at https://www.wired.com/category/security/
+2026-05-01 06:28:44 - 🔴 HIGH RISK   — 'data breach' found at https://haveibeenpwned.com/
+2026-05-01 06:28:45 - ✅ No match — 'data breach' not found at https://www.databreaches.net/
+2026-05-01 06:28:46 - ✅ No match — 'data breach' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:28:46 - 🔴 HIGH RISK   — 'data breach' found at https://krebsonsecurity.com/
+2026-05-01 06:28:47 - ✅ No match — 'data breach' not found at https://www.darkreading.com/
+2026-05-01 06:28:48 - ✅ No match — 'data breach' not found at https://threatpost.com/
+2026-05-01 06:28:49 - ✅ No match — 'data breach' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:28:50 - ✅ No match — 'data breach' not found at https://www.bbc.com/news/technology
+2026-05-01 06:28:51 - 🔴 HIGH RISK   — 'data breach' found at https://techcrunch.com/security/
+2026-05-01 06:28:52 - 🔴 HIGH RISK   — 'data breach' found at https://www.wired.com/category/security/
+2026-05-01 06:28:53 - ✅ No match — 'password dump' not found at https://haveibeenpwned.com/
+2026-05-01 06:28:54 - ✅ No match — 'password dump' not found at https://www.databreaches.net/
+2026-05-01 06:28:54 - ✅ No match — 'password dump' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:28:55 - ✅ No match — 'password dump' not found at https://krebsonsecurity.com/
+2026-05-01 06:28:56 - ✅ No match — 'password dump' not found at https://www.darkreading.com/
+2026-05-01 06:28:57 - ✅ No match — 'password dump' not found at https://threatpost.com/
+2026-05-01 06:28:58 - ✅ No match — 'password dump' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:28:59 - ✅ No match — 'password dump' not found at https://www.bbc.com/news/technology
+2026-05-01 06:28:59 - ✅ No match — 'password dump' not found at https://techcrunch.com/security/
+2026-05-01 06:29:00 - ✅ No match — 'password dump' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:01 - ✅ No match — 'exam paper leaked' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:01 - ✅ No match — 'exam paper leaked' not found at https://www.databreaches.net/
+2026-05-01 06:29:02 - ✅ No match — 'exam paper leaked' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:03 - ✅ No match — 'exam paper leaked' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:04 - ✅ No match — 'exam paper leaked' not found at https://www.darkreading.com/
+2026-05-01 06:29:05 - ✅ No match — 'exam paper leaked' not found at https://threatpost.com/
+2026-05-01 06:29:06 - ✅ No match — 'exam paper leaked' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:07 - ✅ No match — 'exam paper leaked' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:07 - ✅ No match — 'exam paper leaked' not found at https://techcrunch.com/security/
+2026-05-01 06:29:08 - ✅ No match — 'exam paper leaked' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:09 - ✅ No match — 'student records exposed' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:09 - ✅ No match — 'student records exposed' not found at https://www.databreaches.net/
+2026-05-01 06:29:10 - ✅ No match — 'student records exposed' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:11 - ✅ No match — 'student records exposed' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:11 - ✅ No match — 'student records exposed' not found at https://www.darkreading.com/
+2026-05-01 06:29:13 - ✅ No match — 'student records exposed' not found at https://threatpost.com/
+2026-05-01 06:29:13 - ✅ No match — 'student records exposed' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:14 - ✅ No match — 'student records exposed' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:14 - ✅ No match — 'student records exposed' not found at https://techcrunch.com/security/
+2026-05-01 06:29:15 - ✅ No match — 'student records exposed' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:15 - ✅ No match — 'LMS vulnerability' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:17 - ✅ No match — 'LMS vulnerability' not found at https://www.databreaches.net/
+2026-05-01 06:29:17 - ✅ No match — 'LMS vulnerability' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:18 - ✅ No match — 'LMS vulnerability' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:18 - ✅ No match — 'LMS vulnerability' not found at https://www.darkreading.com/
+2026-05-01 06:29:20 - ✅ No match — 'LMS vulnerability' not found at https://threatpost.com/
+2026-05-01 06:29:20 - ✅ No match — 'LMS vulnerability' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:21 - ✅ No match — 'LMS vulnerability' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:21 - ✅ No match — 'LMS vulnerability' not found at https://techcrunch.com/security/
+2026-05-01 06:29:22 - ✅ No match — 'LMS vulnerability' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:22 - ✅ No match — 'unauthorized access' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:23 - ✅ No match — 'unauthorized access' not found at https://www.databreaches.net/
+2026-05-01 06:29:24 - ✅ No match — 'unauthorized access' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:24 - ✅ No match — 'unauthorized access' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:25 - ✅ No match — 'unauthorized access' not found at https://www.darkreading.com/
+2026-05-01 06:29:26 - ✅ No match — 'unauthorized access' not found at https://threatpost.com/
+2026-05-01 06:29:26 - ✅ No match — 'unauthorized access' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:27 - ✅ No match — 'unauthorized access' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:28 - ✅ No match — 'unauthorized access' not found at https://techcrunch.com/security/
+2026-05-01 06:29:28 - 🟠 MEDIUM RISK — 'unauthorized access' found at https://www.wired.com/category/security/
+2026-05-01 06:29:29 - ✅ No match — 'phishing attack' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:29 - ✅ No match — 'phishing attack' not found at https://www.databreaches.net/
+2026-05-01 06:29:30 - ✅ No match — 'phishing attack' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:30 - 🟠 MEDIUM RISK — 'phishing attack' found at https://krebsonsecurity.com/
+2026-05-01 06:29:30 - ✅ No match — 'phishing attack' not found at https://www.darkreading.com/
+2026-05-01 06:29:32 - 🟠 MEDIUM RISK — 'phishing attack' found at https://threatpost.com/
+2026-05-01 06:29:32 - ✅ No match — 'phishing attack' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:33 - ✅ No match — 'phishing attack' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:34 - ✅ No match — 'phishing attack' not found at https://techcrunch.com/security/
+2026-05-01 06:29:34 - 🟠 MEDIUM RISK — 'phishing attack' found at https://www.wired.com/category/security/
+2026-05-01 06:29:34 - ✅ No match — 'API key exposed' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:35 - ✅ No match — 'API key exposed' not found at https://www.databreaches.net/
+2026-05-01 06:29:36 - ✅ No match — 'API key exposed' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:36 - ✅ No match — 'API key exposed' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:36 - ✅ No match — 'API key exposed' not found at https://www.darkreading.com/
+2026-05-01 06:29:38 - ✅ No match — 'API key exposed' not found at https://threatpost.com/
+2026-05-01 06:29:38 - ✅ No match — 'API key exposed' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:39 - ✅ No match — 'API key exposed' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:39 - ✅ No match — 'API key exposed' not found at https://techcrunch.com/security/
+2026-05-01 06:29:40 - ✅ No match — 'API key exposed' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:40 - ✅ No match — 'security vulnerability' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:41 - ✅ No match — 'security vulnerability' not found at https://www.databreaches.net/
+2026-05-01 06:29:42 - ✅ No match — 'security vulnerability' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:42 - ✅ No match — 'security vulnerability' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:43 - ✅ No match — 'security vulnerability' not found at https://www.darkreading.com/
+2026-05-01 06:29:44 - ✅ No match — 'security vulnerability' not found at https://threatpost.com/
+2026-05-01 06:29:45 - ✅ No match — 'security vulnerability' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:46 - ✅ No match — 'security vulnerability' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:46 - ✅ No match — 'security vulnerability' not found at https://techcrunch.com/security/
+2026-05-01 06:29:47 - ✅ No match — 'security vulnerability' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:48 - ✅ No match — 'data privacy' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:49 - ✅ No match — 'data privacy' not found at https://www.databreaches.net/
+2026-05-01 06:29:49 - ✅ No match — 'data privacy' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:50 - ✅ No match — 'data privacy' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:50 - ✅ No match — 'data privacy' not found at https://www.darkreading.com/
+2026-05-01 06:29:51 - ✅ No match — 'data privacy' not found at https://threatpost.com/
+2026-05-01 06:29:52 - ✅ No match — 'data privacy' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:29:52 - ✅ No match — 'data privacy' not found at https://www.bbc.com/news/technology
+2026-05-01 06:29:53 - ✅ No match — 'data privacy' not found at https://techcrunch.com/security/
+2026-05-01 06:29:54 - ✅ No match — 'data privacy' not found at https://www.wired.com/category/security/
+2026-05-01 06:29:54 - ✅ No match — 'cyber attack' not found at https://haveibeenpwned.com/
+2026-05-01 06:29:55 - ✅ No match — 'cyber attack' not found at https://www.databreaches.net/
+2026-05-01 06:29:55 - ✅ No match — 'cyber attack' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:29:56 - ✅ No match — 'cyber attack' not found at https://krebsonsecurity.com/
+2026-05-01 06:29:56 - ✅ No match — 'cyber attack' not found at https://www.darkreading.com/
+2026-05-01 06:29:57 - ✅ No match — 'cyber attack' not found at https://threatpost.com/
+2026-05-01 06:29:59 - ✅ No match — 'cyber attack' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:30:00 - ✅ No match — 'cyber attack' not found at https://www.bbc.com/news/technology
+2026-05-01 06:30:00 - ✅ No match — 'cyber attack' not found at https://techcrunch.com/security/
+2026-05-01 06:30:01 - ✅ No match — 'cyber attack' not found at https://www.wired.com/category/security/
+2026-05-01 06:30:01 - ✅ No match — 'malware detected' not found at https://haveibeenpwned.com/
+2026-05-01 06:30:02 - ✅ No match — 'malware detected' not found at https://www.databreaches.net/
+2026-05-01 06:30:02 - ✅ No match — 'malware detected' not found at https://www.bleepingcomputer.com/
+2026-05-01 06:30:03 - ✅ No match — 'malware detected' not found at https://krebsonsecurity.com/
+2026-05-01 06:30:03 - ✅ No match — 'malware detected' not found at https://www.darkreading.com/
+2026-05-01 06:30:05 - ✅ No match — 'malware detected' not found at https://threatpost.com/
+2026-05-01 06:30:05 - ✅ No match — 'malware detected' not found at https://www.cisa.gov/news-events/cybersecurity-advisories
+2026-05-01 06:30:06 - ✅ No match — 'malware detected' not found at https://www.bbc.com/news/technology
+2026-05-01 06:30:07 - ✅ No match — 'malware detected' not found at https://techcrunch.com/security/
+2026-05-01 06:30:07 - ✅ No match — 'malware detected' not found at https://www.wired.com/category/security/
+
+=== SUMMARY ===
+Total checks  : 140
+Alerts found  : 8
+🔴 HIGH       : 4
+🟠 MEDIUM     : 4
+🟡 LOW        : 0
